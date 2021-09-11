@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annajose23
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning .net core
-- 💞️ I’m looking to collaborate on react/angular + nodejs/.net core projects
+- 💞️ I’m looking to collaborate on React, Redux, Nextjs + nodejs/.net core projects
 - 📫 How to reach me : joann23july@gmail.com
 
 <!---
